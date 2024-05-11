@@ -6,11 +6,10 @@
 - 👨‍💻 All of my projects are available at [https://dizaraj.github.io](https://dizaraj.github.io)
 - 📫 for Freelance work? knock me, [email](mailto:dizaraj@gmail.com) :)
 
-## Stay Connected
+## 🔗 Stay Connected
 <p align="left">
 <a href="https://linkedin.com/in/dizaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dizaraj" height="30" width="40" /></a>
 <a href="https://fb.com/dizaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dizaraj" height="30" width="40" /></a>
-<a href="https://www.behance.net/dizaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dizaraj" height="30" width="40" /></a>
 </p>
 
 ##
@@ -19,12 +18,16 @@
 
 ##
 ## 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dizaraj&show_icons=true&theme=gotham" alt="dizaraj" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dizaraj&show_icons=true&theme=gotham" alt="dizaraj" /></p
 
 ##
 
-## Support
-<p><a href="https://www.buymeacoffee.com/dizaraj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dizaraj" /></a><a href="https://ko-fi.com/dizaraj"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dizaraj" /></a></p><br><br>
+## ☕ Support
+<p align="center"><a href="https://www.buymeacoffee.com/dizaraj"> 
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dizaraj" />
+</a>
+  <a href="https://ko-fi.com/dizaraj"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dizaraj" /></a>
+</p>
 
 ## 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dizaraj&label=Profile%20views&color=0e75b6&style=flat" alt="dizaraj" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dizaraj&label=Profile%20views&color=0e75b6&style=flat" alt="dizaraj" /> </p>
