@@ -1,9 +1,9 @@
 # Hi there, I'm Dizaraj Dey 👋
-## A passionate Frontend & WordPress Developer from Bangladesh, crafting beautiful and user-friendly digital experiences.
+## A passionate Full Stack Web Developer from Bangladesh, crafting beautiful and user-friendly digital experiences.
 
 ### 📌 About Me
-- 🔭 I’m currently building a Blood Donation App.
-- 👨‍💻 Explore all of my projects on my Portfolio Website.
+- 🔭 I’m currently building a [Blood Donation App](https://dizaraj.github.io/).
+- 👨‍💻 Explore all of my projects on my [Portfolio](https://dizaraj.github.io/) Website.
 - 📫 Need a hand with a project? Feel free to email me for freelance opportunities.
 
 ### 🔗 Connect With Me
